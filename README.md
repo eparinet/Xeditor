@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feparinet&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # X Editor WYSIWYG HTML 에디터
 심플하고 필요한 핵심기능을 모두 갖춘 X Editor WYSIWYG HTML 에디터
  
@@ -76,6 +78,4 @@
 * X editor은 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 사용 하실 수 있습니다.
 * X editor은 일부를 수정, 판매할 수 없으며 배포되는 형태 그대로 사용해야 합니다. 
 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+ 
